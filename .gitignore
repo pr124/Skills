@@ -1,0 +1,7 @@
+# Track only my own skills - installed third-party skill packs stay untracked.
+# To track a new skill, add a !/skill-name/ line below.
+/*
+!/.gitignore
+!/README.md
+!/localize-prices/
+.DS_Store
