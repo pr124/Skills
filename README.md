@@ -42,4 +42,5 @@ inside a skill should be resolved from that skill's directory.
 
 | Skill | Purpose |
 |---|---|
+| [codex-ui](codex-ui/) | Keep UI hierarchy clear and remove decorative microcopy by default |
 | [localize-prices](localize-prices/) | PPP price localization for App Store subscriptions/IAPs via the `asc` CLI |
