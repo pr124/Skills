@@ -1,9 +1,9 @@
 ---
-name: codex-ui-web
+name: web-design-antislop
 description: Design, implement, redesign, or review distinctive websites and web apps with production-grade visual craft. Use for landing pages, marketing sites, SaaS products, dashboards, portals, and responsive web interfaces when the result must avoid generic AI aesthetics. Do not use for native iOS or Android apps.
 ---
 
-# Codex UI — Web
+# Web Design Anti-Slop
 
 Create a specific interface for this product, audience, and domain. Do not make a merely attractive arrangement of familiar AI-generated patterns.
 

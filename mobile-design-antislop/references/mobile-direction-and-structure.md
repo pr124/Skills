@@ -1,4 +1,4 @@
-# Mobile direction and structure
+# Mobile anti-slop: direction and structure
 
 ## Establish the premise
 

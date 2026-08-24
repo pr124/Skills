@@ -1,4 +1,4 @@
-# Mobile craft
+# Mobile anti-slop: craft
 
 ## Typography
 

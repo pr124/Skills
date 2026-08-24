@@ -1,9 +1,9 @@
 ---
-name: codex-ui-mobile
+name: mobile-design-antislop
 description: Design, implement, redesign, or review distinctive native mobile app interfaces for iOS and Android, including SwiftUI, UIKit, Jetpack Compose, React Native, Expo, and Flutter. Use when screens, flows, navigation, gestures, or motion must feel platform-aware and avoid generic AI app aesthetics. Do not use for mobile websites.
 ---
 
-# Codex UI — Mobile
+# Mobile Design Anti-Slop
 
 Create an app that feels designed for a hand, a platform, and a real task—not a desktop layout squeezed into a phone frame or a gallery of fashionable mobile components.
 

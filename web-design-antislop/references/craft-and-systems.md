@@ -1,4 +1,4 @@
-# Craft and systems
+# Web anti-slop: craft and systems
 
 ## Typography
 

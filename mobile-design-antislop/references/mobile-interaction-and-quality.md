@@ -1,4 +1,4 @@
-# Mobile interaction and quality
+# Mobile anti-slop: interaction and quality
 
 ## Gestures and feedback
 

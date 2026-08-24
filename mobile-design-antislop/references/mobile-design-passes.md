@@ -1,4 +1,4 @@
-# Mobile design-pass router
+# Mobile anti-slop: design-pass router
 
 Use the smallest pass that matches the user's intent. These are disciplines inside this skill, not separate skills the user must name.
 

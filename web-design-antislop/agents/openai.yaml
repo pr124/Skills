@@ -1,0 +1,4 @@
+interface:
+  display_name: "Web Design Anti-Slop"
+  short_description: "Distinctive, production-grade web interfaces"
+  default_prompt: "Use $web-design-antislop to design or refine this web interface with a specific visual direction and no generic AI aesthetic."

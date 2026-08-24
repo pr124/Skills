@@ -1,4 +1,4 @@
-# Interaction and quality
+# Web anti-slop: interaction and quality
 
 ## Interaction states
 

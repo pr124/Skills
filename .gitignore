@@ -4,6 +4,6 @@
 !/.gitignore
 !/README.md
 !/localize-prices/
-!/codex-ui-mobile/
-!/codex-ui-web/
+!/mobile-design-antislop/
+!/web-design-antislop/
 .DS_Store

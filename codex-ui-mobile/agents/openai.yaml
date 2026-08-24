@@ -1,4 +1,0 @@
-interface:
-  display_name: "Codex UI — Mobile"
-  short_description: "Native-feeling iOS and Android interfaces"
-  default_prompt: "Use $codex-ui-mobile to design or refine this mobile flow so it feels platform-native, distinctive, and free of generic AI patterns."

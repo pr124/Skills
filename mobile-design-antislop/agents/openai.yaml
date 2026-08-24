@@ -1,0 +1,4 @@
+interface:
+  display_name: "Mobile Design Anti-Slop"
+  short_description: "Native-feeling iOS and Android interfaces"
+  default_prompt: "Use $mobile-design-antislop to design or refine this mobile flow so it feels platform-native, distinctive, and free of generic AI patterns."

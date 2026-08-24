@@ -1,4 +1,4 @@
-# Direction and composition
+# Web anti-slop: direction and composition
 
 ## Establish a design premise
 

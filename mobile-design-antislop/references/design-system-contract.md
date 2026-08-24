@@ -1,4 +1,4 @@
-# Mobile design-system contract
+# Mobile anti-slop: design-system contract
 
 Use this reference for a new app, a substantial redesign, or a project where multiple screens will be generated over time. The goal is to make design decisions durable in the repository so later work does not drift.
 
