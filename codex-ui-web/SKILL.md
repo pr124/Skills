@@ -17,8 +17,11 @@ Create a specific interface for this product, audience, and domain. Do not make 
 
 ## Route by surface
 
-- **Brand / marketing / editorial:** prioritize narrative, memorable composition, art direction, and conversion. Read [references/direction-and-composition.md](references/direction-and-composition.md).
-- **Product / SaaS / dashboard / tool:** prioritize task flow, information hierarchy, density, state clarity, and consistency. Read the same reference using its Product register.
+- **Persuade — marketing, pricing, launch, conversion:** prioritize narrative, proof, memorable composition, and action.
+- **Operate — SaaS, dashboard, admin, tool:** prioritize task flow, information hierarchy, density, state clarity, and consistency.
+- **Read — docs, guides, help, editorial:** prioritize comprehension, navigation, typography, code/media treatment, and long-form rhythm.
+- **Experience — portfolio, gallery, showcase:** let the artifact lead while navigation, transitions, and controls recede.
+- For any of these, read [references/direction-and-composition.md](references/direction-and-composition.md) using the matching register.
 - **Any non-trivial build or redesign:** also read [references/craft-and-systems.md](references/craft-and-systems.md) and [references/interaction-and-quality.md](references/interaction-and-quality.md).
 - **Small, isolated UI edit:** preserve the existing direction and read only the reference relevant to the edit.
 

@@ -17,7 +17,7 @@ Examples of useful voice tension: `precise, calm, not sterile`; `playful, tactil
 
 The signature can come from the product itself: a comparison rail for a research tool, a field-note motif for an outdoors brand, a live material swatch for an interiors shop, or an unusually useful timeline for a logistics product. It should improve recognition or understanding, not function as random decoration.
 
-## Brand register
+## Persuade register
 
 Marketing and editorial pages need a narrative rather than a sequence of interchangeable sections.
 
@@ -28,7 +28,7 @@ Marketing and editorial pages need a narrative rather than a sequence of interch
 - Treat the hero as the first scene, not a mandatory left-copy/right-mockup component.
 - Make proof product-specific: demonstrations, real screenshots, comparisons, examples, or methodology beat generic badge rows.
 
-## Product register
+## Operate register
 
 Applications and dashboards earn trust through clarity and consistency.
 
@@ -39,6 +39,26 @@ Applications and dashboards earn trust through clarity and consistency.
 - Prefer inline disclosure, split views, drawers, or contextual panels when they preserve working context.
 - Give data shape: units, comparison baselines, time ranges, missing-data states, and aligned numbers. Do not add decorative charts.
 - Use a stable grid and predictable component behavior. Personality should not make routine work harder.
+
+## Read register
+
+Documentation, guides, help centers, changelogs, and editorial surfaces succeed through sustained comprehension.
+
+- Make wayfinding, search, table of contents, current location, and next steps obvious without crowding the reading column.
+- Treat type hierarchy, line length, code blocks, tables, figures, citations, and callouts as a coordinated reading system.
+- Keep navigation stable while allowing the article body to breathe. Do not turn every paragraph into a card or callout.
+- Use progressive disclosure for advanced detail while keeping prerequisites and critical warnings in the main path.
+- Design for scanning and deep reading: descriptive headings, meaningful anchors, useful summaries, and clear examples.
+
+## Experience register
+
+Portfolios, galleries, immersive stories, and showcases are interfaces around an artifact.
+
+- Let the work dominate the visual field; chrome should recede until needed.
+- Use pacing, crop, scale, sequencing, and transition to frame the artifact rather than decorating around it.
+- Keep orientation and escape routes clear even when the composition is experimental.
+- Protect media quality and performance. A dramatic concept that loads slowly or obscures the work defeats itself.
+- Ensure keyboard, touch, reduced-motion, and alternative-text behavior survive the immersive treatment.
 
 ## Composition rules
 

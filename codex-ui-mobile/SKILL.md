@@ -23,6 +23,7 @@ Create an app that feels designed for a hand, a platform, and a real task—not 
 - For typography, color, surfaces, safe areas, and component craft, read [references/mobile-craft.md](references/mobile-craft.md).
 - For gestures, motion, haptics, accessibility, and device verification, read [references/mobile-interaction-and-quality.md](references/mobile-interaction-and-quality.md).
 - For new apps, substantial redesigns, or recurring UI work, read [references/design-system-contract.md](references/design-system-contract.md) and create or update the project's design contract when it will prevent drift.
+- When the request is an improvement, critique, adaptation, onboarding, hardening, or polish task, route it through [references/mobile-design-passes.md](references/mobile-design-passes.md) instead of loading unrelated guidance.
 - For a tiny edit, preserve the existing direction and read only the relevant reference.
 
 ## Core workflow
