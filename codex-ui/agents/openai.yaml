@@ -1,4 +1,0 @@
-interface:
-  display_name: "Codex UI"
-  short_description: "Keep UI hierarchy clear and unforced"
-  default_prompt: "Use $codex-ui when building or reviewing UI so the hierarchy stays clear without decorative microcopy."

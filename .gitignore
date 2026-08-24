@@ -4,5 +4,6 @@
 !/.gitignore
 !/README.md
 !/localize-prices/
-!/codex-ui/
+!/codex-ui-mobile/
+!/codex-ui-web/
 .DS_Store

@@ -42,5 +42,6 @@ inside a skill should be resolved from that skill's directory.
 
 | Skill | Purpose |
 |---|---|
-| [codex-ui](codex-ui/) | Keep UI hierarchy clear and remove decorative microcopy by default |
+| [codex-ui-mobile](codex-ui-mobile/) | Design native-feeling iOS and Android interfaces with platform-aware interaction and visual craft |
+| [codex-ui-web](codex-ui-web/) | Design distinctive, production-grade websites and web apps without generic AI aesthetics |
 | [localize-prices](localize-prices/) | PPP price localization for App Store subscriptions/IAPs via the `asc` CLI |

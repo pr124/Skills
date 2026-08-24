@@ -1,0 +1,4 @@
+interface:
+  display_name: "Codex UI — Web"
+  short_description: "Distinctive, production-grade web interfaces"
+  default_prompt: "Use $codex-ui-web to design or refine this web interface with a specific visual direction and no generic AI aesthetic."
