@@ -1,0 +1,4 @@
+interface:
+  display_name: "UI Inspiration"
+  short_description: "Curated references for stronger interface design"
+  default_prompt: "Use $ui-inspiration to find and adapt suitable component or interaction references for this interface."

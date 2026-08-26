@@ -74,4 +74,5 @@ routes the request to the smallest relevant reference or design pass.
 |---|---|
 | [mobile-design-antislop](mobile-design-antislop/) | Design native-feeling iOS and Android interfaces with platform-aware interaction and visual craft |
 | [web-design-antislop](web-design-antislop/) | Design distinctive, production-grade websites and web apps without generic AI aesthetics |
+| [ui-inspiration](ui-inspiration/) | Consult curated component, motion, and design-system references during interface design work |
 | [localize-prices](localize-prices/) | PPP price localization for App Store subscriptions/IAPs via the `asc` CLI |
